@@ -1,5 +1,5 @@
 # coding: utf-8
-'''python makeinst.py bdist_msi'''
+'''python makemsi.py bdist_msi'''
 name = 'matrix'
 filename = name + '.py'
 from cx_Freeze import setup, Executable
